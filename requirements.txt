@@ -4,6 +4,7 @@ chromadb==1.5.9
 pypdf==6.21.1
 PyPDF2
 faiss-cpu
+sentence-transformers
 gTTS==2.2.4
 streamlit_mic_recorder==0.0.8
 SpeechRecognition==3.17.0
